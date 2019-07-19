@@ -1,0 +1,98 @@
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest>git clone https://github.com/yinxinwuzeen/AutoTestPractice
+Cloning into 'AutoTestPractice'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest>cd AutoTestPractice
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>dir
+ 驱动器 C 中的卷是 Windows
+ 卷的序列号是 B274-C2AD
+
+ C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice 的目录
+
+2019/07/19  22:26    <DIR>          .
+2019/07/19  22:26    <DIR>          ..
+2019/07/19  22:26                55 README.md
+               1 个文件             55 字节
+               2 个目录 26,361,516,032 可用字节
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        doc/
+        pictures/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git add doc/
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   "doc/\346\234\200\345\205\250\351\235\242\347\232\204JAVA\346\216\245\345\217\243\350\207\252\345\212\250\345\214\226\346\265\213\350\257\225\345\256\236\346\210\230.doc"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        pictures/
+
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git add pictures/
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   "doc/\346\234\200\345\205\250\351\235\242\347\232\204JAVA\346\216\245\345\217\243\350\207\252\345\212\250\345\214\226\346\265\213\350\257\225\345\256\236\346\210\230.doc"
+        new file:   "pictures/\346\234\200\345\205\250\351\235\242\347\232\204JAVA\346\216\245\345\217\243\350\207\252\345\212\250\345\214\226\346\265\213\350\257\225\345\256\236\346\210\230.png"
+
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git commit -m "增加文档和导图图片"
+[master 9da34cb] 增加文档和导图图片
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 "doc/\346\234\200\345\205\250\351\235\242\347\232\204JAVA\346\216\245\345\217\243\350\207\252\345\212\250\345\214\226\346\265\213\350\257\225\345\256\236\346\210\230.doc"
+ create mode 100644 "pictures/\346\234\200\345\205\250\351\235\242\347\232\204JAVA\346\216\245\345\217\243\350\207\252\345\212\250\345\214\226\346\265\213\350\257\225\345\256\236\346\210\230.png"
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git push
+Counting objects: 6, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 680.67 KiB | 12.38 MiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To https://github.com/yinxinwuzeen/AutoTestPractice
+   5296314..9da34cb  master -> master
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git pull
+Already up to date.
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git branch
+* master
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
+
+C:\Users\wuzeen\Documents\Projects\IdeaProjects\AutoTest\AutoTestPractice>
