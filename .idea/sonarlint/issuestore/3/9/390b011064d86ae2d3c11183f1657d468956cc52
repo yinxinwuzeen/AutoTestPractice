@@ -1,11 +1,11 @@
 
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾îÙ¨ıÿÿÿÿ8¼ø¡Â-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(™Ø§Ø8´ÉÂ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ßÍá“8ÒßğÂ-
-[
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿó÷øÿÿÿÿ8ÒãŒÂ-
 jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ïô Â-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Ø§Ø8´ÉÂ-
 jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8—¬¥Â-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾îÙ¨ıÿÿÿÿ8¼ø¡Â-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÍá“8ÒßğÂ-
