@@ -1,18 +1,18 @@
 
-U
-squid:S106*"9Replace this use of System.out or System.err by a logger.(³8”·ßÕÁ-
-nsquid:UselessImportCheck">Remove this unused import 'org.testng.annotations.AfterSuite'.(ÓªÚ ùÿÿÿÿ8¸”ØÕÁ-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Àµ£ûÿÿÿÿ8Ç¯ÈÕÁ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÌ˜8ÏÍÈÕÁ-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŸºÂ½úÿÿÿÿ8Ç¯ÈÕÁ-
+squid:S106&"9Replace this use of System.out or System.err by a logger.(‹Ì´¬øÿÿÿÿ8»¹×ÕÁ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õïë¥øÿÿÿÿ8ÏÍÈÕÁ-
 V
 squid:S106."9Replace this use of System.out or System.err by a logger.(£²àó8”·ßÕÁ-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(Õïë¥øÿÿÿÿ8ÏÍÈÕÁ-
-[
-squid:S106&"9Replace this use of System.out or System.err by a logger.(‹Ì´¬øÿÿÿÿ8»¹×ÕÁ-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸºÂ½úÿÿÿÿ8Ç¯ÈÕÁ-
 V
 squid:S106""9Replace this use of System.out or System.err by a logger.(‘öÉ8»§ÕÕÁ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÌ˜8ÏÍÈÕÁ-
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(³8”·ßÕÁ-
+nsquid:UselessImportCheck">Remove this unused import 'org.testng.annotations.AfterSuite'.(ÓªÚ ùÿÿÿÿ8¸”ØÕÁ-

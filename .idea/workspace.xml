@@ -2,30 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eac2129-a4fa-4397-87e9-24ec5bc43cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AutoTestPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/TestNGDome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/BasciAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/exception/ExpectedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/PayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/SuiteConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1237c16858eee9250682e4295bc2c116afa08d0e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1237c16858eee9250682e4295bc2c116afa08d0e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c6c83e0caa0b2f27308a67e6faf605b2c86bf54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c6c83e0caa0b2f27308a67e6faf605b2c86bf54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/630f5972003142d5cc7541d4cfb8622927ff1eee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/630f5972003142d5cc7541d4cfb8622927ff1eee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c14ff9a5a5f669f36bd8aa4951607606ba7aa64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c14ff9a5a5f669f36bd8aa4951607606ba7aa64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9720e8f5e2cf14118e3fcd1c198c812e28b5c46b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9720e8f5e2cf14118e3fcd1c198c812e28b5c46b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd5020f84243a4aaf65a3d461da2b72d3278c30a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd5020f84243a4aaf65a3d461da2b72d3278c30a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGDome/target/classes/com/course/code/groups/GroupsOnClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGDome/target/classes/com/course/code/groups/GroupsOnClass1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/TestNGDome/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,15 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/PayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,12 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/exception/ExpectedException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="14" column="34" lean-forward="true" selection-end-line="22" />
-              <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="14" column="34" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -82,8 +61,64 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="23" column="1" selection-end-line="24" />
+            <state relative-caret-position="375">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/DependTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -91,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="625">
               <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,38 +137,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="4" lean-forward="true" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -160,12 +168,17 @@
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/LoginTest.java" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnMethod.java" />
-        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass2.java" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/resources/suite.xml" />
         <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/exception/ExpectedException.java" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/DependTest.java" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/paramter/ParamterTest.java" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java" />
+        <option value="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java" />
       </list>
     </option>
   </component>
@@ -177,10 +190,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -188,6 +200,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,17 +251,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTestPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTestPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="TestNGDome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="groups" type="462c0819:PsiDirectoryNode" />
+              <item name="parameter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTestPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -275,7 +278,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,7 +292,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,7 +306,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml">
+  <component name="RunManager" selected="TestNG.DataProviderTest">
+    <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGDome" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDome" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml" />
@@ -315,26 +327,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGDome" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGDome/src/main/resources/suite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExpectedException" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDome" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.code.exception.*" />
+          <option name="PATTERN" value="com.course.code.parameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.code.exception" />
-      <option name="MAIN_CLASS_NAME" value="com.course.code.exception.ExpectedException" />
+      <option name="PACKAGE_NAME" value="com.course.code.parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.course.code.parameter.DataProviderTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -342,24 +344,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupsOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGDome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.code.groups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.code.groups" />
-      <option name="MAIN_CLASS_NAME" value="com.course.code.groups.GroupsOnMethod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IgnoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DependTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGDome" />
       <extension name="coverage">
         <pattern>
@@ -368,7 +353,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.course.code" />
-      <option name="MAIN_CLASS_NAME" value="com.course.code.IgnoreTest" />
+      <option name="MAIN_CLASS_NAME" value="com.course.code.DependTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGDome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.code.parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.code.parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.course.code.parameter.ParameterTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -378,13 +380,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DataProviderTest" />
+        <item itemvalue="TestNG.C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" />
+        <item itemvalue="TestNG.ParameterTest" />
+        <item itemvalue="TestNG.DependTest" />
         <item itemvalue="TestNG.C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" />
-        <item itemvalue="TestNG.ExpectedException" />
-        <item itemvalue="TestNG.C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/suite.xml" />
-        <item itemvalue="TestNG.GroupsOnMethod" />
-        <item itemvalue="TestNG.IgnoreTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -399,60 +404,64 @@
       <workItem from="1563791051264" duration="5661000" />
       <workItem from="1563814729543" duration="2620000" />
       <workItem from="1563839496744" duration="3491000" />
-      <workItem from="1563858973115" duration="4067000" />
+      <workItem from="1563858973115" duration="13472000" />
+      <workItem from="1563952302132" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupsOnMethod - 2019.07.23 at 01h 27m 46s.xml">
-      <configuration name="GroupsOnMethod" configurationId="TestNG" />
+    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_Paramter_xml - 2019.07.24 at 10h 39m 31s.xml">
+      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupsOnMethod - 2019.07.23 at 01h 28m 52s.xml">
-      <configuration name="GroupsOnMethod" configurationId="TestNG" />
+    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_Paramter_xml - 2019.07.24 at 10h 40m 25s.xml">
+      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupsOnMethod - 2019.07.23 at 07h 51m 57s.xml">
-      <configuration name="GroupsOnMethod" configurationId="TestNG" />
+    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_Paramter_xml - 2019.07.24 at 10h 41m 14s.xml">
+      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_studentAndTeacher_xml - 2019.07.23 at 10h 51m 35s.xml">
-      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_Paramter_xml - 2019.07.24 at 10h 41m 40s.xml">
+      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/Paramter.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_studentAndTeacher_xml - 2019.07.23 at 10h 52m 40s.xml">
-      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 10h 52m 59s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_studentAndTeacher_xml - 2019.07.23 at 10h 53m 24s.xml">
-      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 10h 54m 05s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_suite_xml - 2019.07.23 at 10h 53m 47s.xml">
-      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/suite.xml" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 10h 55m 02s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExpectedException - 2019.07.23 at 13h 22m 31s.xml">
-      <configuration name="ExpectedException" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 10h 55m 57s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExpectedException - 2019.07.23 at 15h 30m 42s.xml">
-      <configuration name="ExpectedException" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 10h 56m 20s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_wuzeen_Documents_Projects_IdeaProjects_AutoTest_AutoTestPractice_TestNGDome_src_main_resources_studentAndTeacher_xml - 2019.07.23 at 22h 24m 06s.xml">
-      <configuration name="C:/Users/wuzeen/Documents/Projects/IdeaProjects/AutoTest/AutoTestPractice/TestNGDome/src/main/resources/studentAndTeacher.xml" configurationId="TestNG" />
+    <history-entry file="DataProviderTest - 2019.07.24 at 15h 14m 29s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15839000" />
+    <option name="totallyTimeSpent" value="25916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.19436997" />
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.14075068" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.19436997" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="0" weight="0.32719547" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.64730877" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3186969" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.31728044" />
       <window_info anchor="bottom" id="SonarLint" order="4" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
@@ -464,7 +473,8 @@
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="bottom" id="Run" order="15" visible="true" weight="0.5750708" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.35410765" />
+      <window_info anchor="right" id="Alibaba Log Console" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -529,6 +539,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -543,48 +574,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="23" column="1" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/exception/ExpectedException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="14" column="34" lean-forward="true" selection-end-line="22" />
+        <state relative-caret-position="325">
+          <caret line="14" column="34" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/resources/studentAndTeacher.xml">
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/DependTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="525">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="625">
           <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -596,8 +638,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/groups/GroupsOnClass1.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="9" column="4" lean-forward="true" selection-end-line="19" />
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

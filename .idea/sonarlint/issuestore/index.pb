@@ -21,3 +21,9 @@ s
 CTestNGDome/src/main/java/com/course/code/groups/GroupsOnClass3.java,6\3\630f5972003142d5cc7541d4cfb8622927ff1eee
 y
 ITestNGDome/src/main/java/com/course/code/exception/ExpectedException.java,f\d\fd5020f84243a4aaf65a3d461da2b72d3278c30a
+h
+8TestNGDome/src/main/java/com/course/code/DependTest.java,3\9\390b011064d86ae2d3c11183f1657d468956cc52
+u
+ETestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java,9\f\9f61f0d956318ae248dbf2b32190fe56ae000a99
+x
+HTestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java,1\c\1cb123082c31e6b5f219f592af95ae434f1f18df

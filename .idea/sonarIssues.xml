@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/DependTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/IgnoreTest.java">
           <value>
             <set />
@@ -63,6 +68,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/DataProviderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParameterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/parameter/ParamterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/paramter/ParamterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/LoginTest.java">
           <value>
             <set />
@@ -74,6 +99,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/TestNGDome/src/main/java/com/course/code/suite/SuiteConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/TestNGDome/src/main/resources/Paramter.xml">
           <value>
             <set />
           </value>

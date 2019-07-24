@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
 public class GroupsOnClass1 {
     public void stu1(){
         System.out.println("GroupsOnClass1中的stu1运行测试");
+        System.out.println("组测试");
     }
     public void stu2(){
         System.out.println("GroupsOnClass1中的stu2运行测试");
